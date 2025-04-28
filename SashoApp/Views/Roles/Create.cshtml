@@ -1,0 +1,18 @@
+﻿@model Microsoft.AspNetCore.Identity.IdentityRole
+
+@{
+    ViewData["Title"] = "Добавяне на нова роля";
+}
+
+<h2>Добавяне на нова роля</h2>
+
+<form asp-action="Create" method="post">
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label">Име на ролята:</label>
+        <input asp-for="Name" class="form-control" required />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Създай</button>
+</form>
+
+<a asp-action="Index" class="btn btn-secondary">Обратно към списъка</a>

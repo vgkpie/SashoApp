@@ -1,0 +1,389 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SashoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10A7B5DE-FFB0-46E1-A030-3CBC36A564CD}|SashoApp\\SashoApp.csproj|d:\\sashoapp\\sashoapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10A7B5DE-FFB0-46E1-A030-3CBC36A564CD}|SashoApp\\SashoApp.csproj|solutionrelative:sashoapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A7B5DE-FFB0-46E1-A030-3CBC36A564CD}|SashoApp\\SashoApp.csproj|d:\\sashoapp\\sashoapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10A7B5DE-FFB0-46E1-A030-3CBC36A564CD}|SashoApp\\SashoApp.csproj|solutionrelative:sashoapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A7B5DE-FFB0-46E1-A030-3CBC36A564CD}|SashoApp\\SashoApp.csproj|d:\\sashoapp\\sashoapp\\models\\account\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A7B5DE-FFB0-46E1-A030-3CBC36A564CD}|SashoApp\\SashoApp.csproj|solutionrelative:sashoapp\\models\\account\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A7B5DE-FFB0-46E1-A030-3CBC36A564CD}|SashoApp\\SashoApp.csproj|d:\\sashoapp\\sashoapp\\models\\account\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A7B5DE-FFB0-46E1-A030-3CBC36A564CD}|SashoApp\\SashoApp.csproj|solutionrelative:sashoapp\\models\\account\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A7B5DE-FFB0-46E1-A030-3CBC36A564CD}|SashoApp\\SashoApp.csproj|d:\\sashoapp\\sashoapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A7B5DE-FFB0-46E1-A030-3CBC36A564CD}|SashoApp\\SashoApp.csproj|solutionrelative:sashoapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A7B5DE-FFB0-46E1-A030-3CBC36A564CD}|SashoApp\\SashoApp.csproj|d:\\sashoapp\\sashoapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{10A7B5DE-FFB0-46E1-A030-3CBC36A564CD}|SashoApp\\SashoApp.csproj|solutionrelative:sashoapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A7B5DE-FFB0-46E1-A030-3CBC36A564CD}|SashoApp\\SashoApp.csproj|d:\\sashoapp\\sashoapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A7B5DE-FFB0-46E1-A030-3CBC36A564CD}|SashoApp\\SashoApp.csproj|solutionrelative:sashoapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A7B5DE-FFB0-46E1-A030-3CBC36A564CD}|SashoApp\\SashoApp.csproj|d:\\sashoapp\\sashoapp\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A7B5DE-FFB0-46E1-A030-3CBC36A564CD}|SashoApp\\SashoApp.csproj|solutionrelative:sashoapp\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A7B5DE-FFB0-46E1-A030-3CBC36A564CD}|SashoApp\\SashoApp.csproj|d:\\sashoapp\\sashoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A7B5DE-FFB0-46E1-A030-3CBC36A564CD}|SashoApp\\SashoApp.csproj|solutionrelative:sashoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A7B5DE-FFB0-46E1-A030-3CBC36A564CD}|SashoApp\\SashoApp.csproj|d:\\sashoapp\\sashoapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A7B5DE-FFB0-46E1-A030-3CBC36A564CD}|SashoApp\\SashoApp.csproj|solutionrelative:sashoapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A7B5DE-FFB0-46E1-A030-3CBC36A564CD}|SashoApp\\SashoApp.csproj|d:\\sashoapp\\sashoapp\\views\\roles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10A7B5DE-FFB0-46E1-A030-3CBC36A564CD}|SashoApp\\SashoApp.csproj|solutionrelative:sashoapp\\views\\roles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A7B5DE-FFB0-46E1-A030-3CBC36A564CD}|SashoApp\\SashoApp.csproj|d:\\sashoapp\\sashoapp\\views\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10A7B5DE-FFB0-46E1-A030-3CBC36A564CD}|SashoApp\\SashoApp.csproj|solutionrelative:sashoapp\\views\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A7B5DE-FFB0-46E1-A030-3CBC36A564CD}|SashoApp\\SashoApp.csproj|d:\\sashoapp\\sashoapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10A7B5DE-FFB0-46E1-A030-3CBC36A564CD}|SashoApp\\SashoApp.csproj|solutionrelative:sashoapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A7B5DE-FFB0-46E1-A030-3CBC36A564CD}|SashoApp\\SashoApp.csproj|d:\\sashoapp\\sashoapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10A7B5DE-FFB0-46E1-A030-3CBC36A564CD}|SashoApp\\SashoApp.csproj|solutionrelative:sashoapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A7B5DE-FFB0-46E1-A030-3CBC36A564CD}|SashoApp\\SashoApp.csproj|d:\\sashoapp\\sashoapp\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A7B5DE-FFB0-46E1-A030-3CBC36A564CD}|SashoApp\\SashoApp.csproj|solutionrelative:sashoapp\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A7B5DE-FFB0-46E1-A030-3CBC36A564CD}|SashoApp\\SashoApp.csproj|d:\\sashoapp\\sashoapp\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A7B5DE-FFB0-46E1-A030-3CBC36A564CD}|SashoApp\\SashoApp.csproj|solutionrelative:sashoapp\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A7B5DE-FFB0-46E1-A030-3CBC36A564CD}|SashoApp\\SashoApp.csproj|d:\\sashoapp\\sashoapp\\models\\roles\\createroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A7B5DE-FFB0-46E1-A030-3CBC36A564CD}|SashoApp\\SashoApp.csproj|solutionrelative:sashoapp\\models\\roles\\createroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A7B5DE-FFB0-46E1-A030-3CBC36A564CD}|SashoApp\\SashoApp.csproj|d:\\sashoapp\\sashoapp\\models\\cars\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A7B5DE-FFB0-46E1-A030-3CBC36A564CD}|SashoApp\\SashoApp.csproj|solutionrelative:sashoapp\\models\\cars\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A7B5DE-FFB0-46E1-A030-3CBC36A564CD}|SashoApp\\SashoApp.csproj|d:\\sashoapp\\sashoapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10A7B5DE-FFB0-46E1-A030-3CBC36A564CD}|SashoApp\\SashoApp.csproj|solutionrelative:sashoapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A7B5DE-FFB0-46E1-A030-3CBC36A564CD}|SashoApp\\SashoApp.csproj|d:\\sashoapp\\sashoapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10A7B5DE-FFB0-46E1-A030-3CBC36A564CD}|SashoApp\\SashoApp.csproj|solutionrelative:sashoapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A7B5DE-FFB0-46E1-A030-3CBC36A564CD}|SashoApp\\SashoApp.csproj|d:\\sashoapp\\sashoapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A7B5DE-FFB0-46E1-A030-3CBC36A564CD}|SashoApp\\SashoApp.csproj|solutionrelative:sashoapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\SashoApp\\SashoApp\\Models\\Account\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "SashoApp\\Models\\Account\\LoginViewModel.cs",
+              "ToolTip": "D:\\SashoApp\\SashoApp\\Models\\Account\\LoginViewModel.cs",
+              "RelativeToolTip": "SashoApp\\Models\\Account\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T06:16:31.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\SashoApp\\SashoApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SashoApp\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\SashoApp\\SashoApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SashoApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T06:16:31.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "D:\\SashoApp\\SashoApp\\Models\\Account\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "SashoApp\\Models\\Account\\RegisterViewModel.cs",
+              "ToolTip": "D:\\SashoApp\\SashoApp\\Models\\Account\\RegisterViewModel.cs",
+              "RelativeToolTip": "SashoApp\\Models\\Account\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T06:16:31.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\SashoApp\\SashoApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SashoApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\SashoApp\\SashoApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SashoApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T06:16:31.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\SashoApp\\SashoApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "SashoApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\SashoApp\\SashoApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "SashoApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T06:16:31.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\SashoApp\\SashoApp\\appsettings.json",
+              "RelativeDocumentMoniker": "SashoApp\\appsettings.json",
+              "ToolTip": "D:\\SashoApp\\SashoApp\\appsettings.json",
+              "RelativeToolTip": "SashoApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-28T06:16:31.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\SashoApp\\SashoApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SashoApp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\SashoApp\\SashoApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SashoApp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T06:16:31.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\SashoApp\\SashoApp\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "SashoApp\\Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\SashoApp\\SashoApp\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "SashoApp\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T06:16:31.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\SashoApp\\SashoApp\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "SashoApp\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\SashoApp\\SashoApp\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "SashoApp\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T06:16:31.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\SashoApp\\SashoApp\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "SashoApp\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\SashoApp\\SashoApp\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "SashoApp\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T06:16:31.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SashoApp\\SashoApp\\Program.cs",
+              "RelativeDocumentMoniker": "SashoApp\\Program.cs",
+              "ToolTip": "D:\\SashoApp\\SashoApp\\Program.cs",
+              "RelativeToolTip": "SashoApp\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAowCgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T06:16:31.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "D:\\SashoApp\\SashoApp\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "SashoApp\\Controllers\\RolesController.cs",
+              "ToolTip": "D:\\SashoApp\\SashoApp\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "SashoApp\\Controllers\\RolesController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAIwF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T06:16:31.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "D:\\SashoApp\\SashoApp\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "SashoApp\\Controllers\\CarController.cs",
+              "ToolTip": "D:\\SashoApp\\SashoApp\\Controllers\\CarController.cs",
+              "RelativeToolTip": "SashoApp\\Controllers\\CarController.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAIwLUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T06:16:31.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\SashoApp\\SashoApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "SashoApp\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\SashoApp\\SashoApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "SashoApp\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T06:16:31.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\SashoApp\\SashoApp\\Views\\Roles\\Create.cshtml",
+              "RelativeDocumentMoniker": "SashoApp\\Views\\Roles\\Create.cshtml",
+              "ToolTip": "D:\\SashoApp\\SashoApp\\Views\\Roles\\Create.cshtml",
+              "RelativeToolTip": "SashoApp\\Views\\Roles\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T06:16:31.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\SashoApp\\SashoApp\\Views\\Roles\\Index.cshtml",
+              "RelativeDocumentMoniker": "SashoApp\\Views\\Roles\\Index.cshtml",
+              "ToolTip": "D:\\SashoApp\\SashoApp\\Views\\Roles\\Index.cshtml",
+              "RelativeToolTip": "SashoApp\\Views\\Roles\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T06:16:31.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateRoleViewModel.cs",
+              "DocumentMoniker": "D:\\SashoApp\\SashoApp\\Models\\Roles\\CreateRoleViewModel.cs",
+              "RelativeDocumentMoniker": "SashoApp\\Models\\Roles\\CreateRoleViewModel.cs",
+              "ToolTip": "D:\\SashoApp\\SashoApp\\Models\\Roles\\CreateRoleViewModel.cs",
+              "RelativeToolTip": "SashoApp\\Models\\Roles\\CreateRoleViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T06:16:31.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\SashoApp\\SashoApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "SashoApp\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\SashoApp\\SashoApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "SashoApp\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T06:16:31.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\SashoApp\\SashoApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SashoApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\SashoApp\\SashoApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SashoApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T06:16:31.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\SashoApp\\SashoApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "SashoApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\SashoApp\\SashoApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "SashoApp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T06:16:31.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\SashoApp\\SashoApp\\Models\\Cars\\Car.cs",
+              "RelativeDocumentMoniker": "SashoApp\\Models\\Cars\\Car.cs",
+              "ToolTip": "D:\\SashoApp\\SashoApp\\Models\\Cars\\Car.cs",
+              "RelativeToolTip": "SashoApp\\Models\\Cars\\Car.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAIwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T06:16:31.756Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
